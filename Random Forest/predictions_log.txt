@@ -1,0 +1,211 @@
+Running predictions on all daily files... 
+Processing: Daily__02152025.xlsx 
+
+[PREDICTIONS]:
+                          Player Predicted_Result
+0    Alejandro Davidovich Fokina             OVER
+1    Alejandro Davidovich Fokina             OVER
+2    Alejandro Davidovich Fokina            UNDER
+3    Alejandro Davidovich Fokina            UNDER
+4    Alejandro Davidovich Fokina             OVER
+..                           ...              ...
+303                  Zizou Bergs             OVER
+304                  Zizou Bergs             OVER
+305                  Zizou Bergs             OVER
+306                  Zizou Bergs            UNDER
+307                  Zizou Bergs             OVER
+
+[308 rows x 2 columns]
+
+[ACCURACY]: 52.92%
+
+[SAVED]: Daily__02152025_predicted.xlsx
+Processing: Daily__02162025.xlsx 
+
+[PREDICTIONS]:
+                          Player Predicted_Result
+0    Alejandro Davidovich Fokina             OVER
+1    Alejandro Davidovich Fokina             OVER
+2    Alejandro Davidovich Fokina             OVER
+3    Alejandro Davidovich Fokina            UNDER
+4    Alejandro Davidovich Fokina            UNDER
+..                           ...              ...
+175                  Ugo Humbert             OVER
+176                  Ugo Humbert            UNDER
+177                  Ugo Humbert             OVER
+178                  Ugo Humbert             OVER
+179                  Ugo Humbert             OVER
+
+[180 rows x 2 columns]
+
+[ACCURACY]: 45.00%
+
+[SAVED]: Daily__02162025_predicted.xlsx
+Processing: Daily__02172025.xlsx 
+
+[PREDICTIONS]:
+                  Player Predicted_Result
+0       Alejandro Tabilo             OVER
+1       Alejandro Tabilo            UNDER
+2       Alejandro Tabilo            UNDER
+3       Alejandro Tabilo             OVER
+4       Alejandro Tabilo             OVER
+..                   ...              ...
+154      Thiago Monteiro             OVER
+155      Thiago Monteiro             OVER
+156      Thiago Monteiro             OVER
+157  Thiago Seyboth Wild             OVER
+158  Thiago Seyboth Wild             OVER
+
+[159 rows x 2 columns]
+
+[ACCURACY]: 54.72%
+
+[SAVED]: Daily__02172025_predicted.xlsx
+Processing: Daily__02182025.xlsx 
+
+[PREDICTIONS]:
+                Player Predicted_Result
+0    Abdullah Shelbayh             OVER
+1    Abdullah Shelbayh            UNDER
+2    Abdullah Shelbayh             OVER
+3    Abdullah Shelbayh             OVER
+4    Abdullah Shelbayh            UNDER
+..                 ...              ...
+298        Zizou Bergs            UNDER
+299        Zizou Bergs             OVER
+300        Zizou Bergs             OVER
+301        Zizou Bergs             OVER
+302        Zizou Bergs             OVER
+
+[303 rows x 2 columns]
+
+[ACCURACY]: 53.14%
+
+[SAVED]: Daily__02182025_predicted.xlsx
+Processing: Daily__02192025.xlsx 
+
+[PREDICTIONS]:
+             Player Predicted_Result
+0    Alex De Minaur            UNDER
+1    Alex De Minaur            UNDER
+2    Alex De Minaur            UNDER
+3    Alex De Minaur             OVER
+4    Alex De Minaur             OVER
+..              ...              ...
+168     Zizou Bergs             OVER
+169     Zizou Bergs             OVER
+170     Zizou Bergs            UNDER
+171     Zizou Bergs             OVER
+172     Zizou Bergs             OVER
+
+[172 rows x 2 columns]
+
+[ACCURACY]: 44.77%
+
+[SAVED]: Daily__02192025_predicted.xlsx
+Processing: Daily__02202025.xlsx 
+
+[PREDICTIONS]:
+                      Player Predicted_Result
+0             Alex De Minaur            UNDER
+1             Alex De Minaur            UNDER
+2             Alex De Minaur             OVER
+3             Alex De Minaur            UNDER
+4             Alex De Minaur             OVER
+..                       ...              ...
+113  Tomas Martin Etcheverry             OVER
+114  Tomas Martin Etcheverry             OVER
+115  Tomas Martin Etcheverry             OVER
+116  Tomas Martin Etcheverry             OVER
+117  Tomas Martin Etcheverry            UNDER
+
+[118 rows x 2 columns]
+
+[ACCURACY]: 52.54%
+
+[SAVED]: Daily__02202025_predicted.xlsx
+Processing: Daily__02212025.xlsx 
+
+[PREDICTIONS]:
+                Player Predicted_Result
+0     Alexander Zverev             OVER
+1     Alexander Zverev             OVER
+2     Alexander Zverev             OVER
+3     Alexander Zverev             OVER
+4     Alexandre Muller            UNDER
+..                 ...              ...
+133  Yasutaka Uchiyama            UNDER
+134  Yasutaka Uchiyama             OVER
+135  Yasutaka Uchiyama            UNDER
+136  Yasutaka Uchiyama            UNDER
+137  Yasutaka Uchiyama            UNDER
+
+[138 rows x 2 columns]
+
+[ACCURACY]: 48.55%
+
+[SAVED]: Daily__02212025_predicted.xlsx
+Processing: Daily__02222025.xlsx 
+
+[PREDICTIONS]:
+                    Player Predicted_Result
+0    Abdulrahman Al Janahi             OVER
+1    Abdulrahman Al Janahi             OVER
+2    Abdulrahman Al Janahi            UNDER
+3    Abdulrahman Al Janahi            UNDER
+4    Abdulrahman Al Janahi            UNDER
+..                     ...              ...
+383        Yosuke Watanuki             OVER
+384        Yosuke Watanuki             OVER
+385        Yosuke Watanuki             OVER
+386        Yosuke Watanuki             OVER
+387        Yosuke Watanuki             OVER
+
+[386 rows x 2 columns]
+
+[ACCURACY]: 53.89%
+
+[SAVED]: Daily__02222025_predicted.xlsx
+Processing: Daily__02232025.xlsx 
+
+[PREDICTIONS]:
+                     Player Predicted_Result
+0               Adam Walton             OVER
+1               Adam Walton            UNDER
+2               Adam Walton             OVER
+3               Adam Walton             OVER
+4               Adam Walton            UNDER
+..                      ...              ...
+152  Thiago Agustin Tirante            UNDER
+153  Thiago Agustin Tirante            UNDER
+154  Thiago Agustin Tirante             OVER
+155  Thiago Agustin Tirante             OVER
+156  Thiago Agustin Tirante             OVER
+
+[157 rows x 2 columns]
+
+[ACCURACY]: 45.22%
+
+[SAVED]: Daily__02232025_predicted.xlsx
+Processing: Daily__02242025.xlsx 
+
+[PREDICTIONS]:
+            Player Predicted_Result
+0      Adam Walton             OVER
+1      Adam Walton             OVER
+2      Adam Walton             OVER
+3      Adam Walton            UNDER
+4      Adam Walton             OVER
+..             ...              ...
+247  Zhang Zhizhen             OVER
+248    Zizou Bergs             OVER
+249    Zizou Bergs            UNDER
+250    Zizou Bergs             OVER
+251    Zizou Bergs             OVER
+
+[252 rows x 2 columns]
+
+[ACCURACY]: 51.19%
+
+[SAVED]: Daily__02242025_predicted.xlsx
