@@ -20,4 +20,4 @@ Participants are evaluated against 40 unseen daily result files. The top perform
 - data/: Contains sample historical and test-day Excel files for training and validation.
 
 ## 🔍 Goal
-To identify and model hidden patterns in astrological symbols and intensity signals that correlate with match results. The tool aims to forecast when these symbols shift behavior—much like predicting tides in a pendulum swing.
+To identify and model hidden patterns in astrological symbols and intensity signals that correlate with match results. The tool aims to forecast when these symbols shift behavior much like predicting tides in a pendulum swing.
