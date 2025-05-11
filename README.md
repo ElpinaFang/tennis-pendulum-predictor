@@ -10,7 +10,7 @@ This Python-based system analyzes historical match outcomes and trains a forecas
 - Windows-Compatible: Fully runnable on Windows environments via Python scripts.
 - Batch Processing: Easily processes multiple daily prediction files with consistent formatting.
 
-##🏆 Contest-Based Development
+## 🏆 Contest-Based Development
 This model was developed for a $250 guaranteed-prize contest, with the objective of building the most accurate predictor (target: ≥70% accuracy).
 Participants are evaluated against 40 unseen daily result files. The top performer will win and may be invited for additional projects.
 
